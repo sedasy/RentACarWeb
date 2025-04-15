@@ -11,7 +11,7 @@
 
     <main>
         <!-- Ana içerik buraya gelecek -->
-        <h1>Hoş Geldiniz seda</h1>
+        <h1>Hoş Geldiniz </h1>
     </main>
 
     <?php include 'includes/footer.php'; ?>
